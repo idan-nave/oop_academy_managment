@@ -1,0 +1,9 @@
+Student Name: John Doe, Email: johndoe@example.com
+Student Name: Jane Smith, Email: janesmith@example.com
+Student Name: Alice Brown, Email: alicebrown@example.com
+Course Name: Java Programming, Credit Hours: 3
+Course Name: Data Structures, Credit Hours: 4
+Course Name: Web Development, Credit Hours: 3
+Student: John Doe, Course: Java Programming, Grade: 90.0
+Student: Jane Smith, Course: Data Structures, Grade: 85.5
+Student: Alice Brown, Course: Web Development, Grade: 92.0
